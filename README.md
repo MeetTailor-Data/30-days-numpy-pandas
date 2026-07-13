@@ -42,6 +42,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 |-----|--------------------------------|
 | 01  | NumPy Array Basics             |
 | 02  | NumPy Indexing and Slicing     |
+| 03  | NumPy Math Operations          |
 
 
 ---
@@ -53,6 +54,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 │
 ├── day01_array_basics.py
 ├── day02_indexing_slicing.py
+├── day03_math_operations.py
 |
 └── README.md
 ```
