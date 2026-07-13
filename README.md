@@ -81,7 +81,7 @@ python day01_array_basics.py
 
 - [x] Day 01 - NumPy Array Basics
 - [x] Day 02 - NumPy Indexing and Slicing
-- [ ] Day 03 - NumPy Math Operations
+- [x] Day 03 - NumPy Math Operations
 - [ ] Day 04 - NumPy Aggregation
 - [ ] Day 05 - NumPy Reshaping
 - [ ] Day 06 - NumPy Random
