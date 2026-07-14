@@ -43,6 +43,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 | 01  | NumPy Array Basics             |
 | 02  | NumPy Indexing and Slicing     |
 | 03  | NumPy Math Operations          |
+| 04  | NumPy Aggregation              |
 
 
 ---
