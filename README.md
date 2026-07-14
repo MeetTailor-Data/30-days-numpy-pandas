@@ -55,6 +55,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 ├── day01_array_basics.py
 ├── day02_indexing_slicing.py
 ├── day03_math_operations.py
+├── day04_aggregation.py
 |
 └── README.md
 ```
