@@ -45,6 +45,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 | 03  | NumPy Math Operations          |
 | 04  | NumPy Aggregation              |
 | 05  | NumPy Reshaping                |
+| 06  | NumPy Random                   |
 
 
 ---
@@ -59,6 +60,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 ├── day03_math_operations.py
 ├── day04_aggregation.py
 ├── day05_reshaping.py
+├── day06_random.py
 |
 └── README.md
 ```
