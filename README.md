@@ -90,7 +90,7 @@ python day01_array_basics.py
 - [x] Day 03 - NumPy Math Operations
 - [x] Day 04 - NumPy Aggregation
 - [x] Day 05 - NumPy Reshaping
-- [ ] Day 06 - NumPy Random
+- [x] Day 06 - NumPy Random
 - [ ] Day 07 - NumPy Conditions and Filtering
 - [ ] Day 08 - NumPy Linear Algebra
 - [ ] Day 09 - NumPy Broadcasting
