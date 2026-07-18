@@ -46,6 +46,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 | 04  | NumPy Aggregation              |
 | 05  | NumPy Reshaping                |
 | 06  | NumPy Random                   |
+| 07  | NumPy Conditions and Filtering |
 
 
 ---
@@ -61,6 +62,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 ├── day04_aggregation.py
 ├── day05_reshaping.py
 ├── day06_random.py
+├── day07_conditions_filtering.py
 |
 └── README.md
 ```
