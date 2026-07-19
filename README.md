@@ -47,6 +47,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 | 05  | NumPy Reshaping                |
 | 06  | NumPy Random                   |
 | 07  | NumPy Conditions and Filtering |
+| 08  | NumPy Linear Algebra           |
 
 
 ---
@@ -63,6 +64,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 ├── day05_reshaping.py
 ├── day06_random.py
 ├── day07_conditions_filtering.py
+├── day08_linear_algebra.py
 |
 └── README.md
 ```
