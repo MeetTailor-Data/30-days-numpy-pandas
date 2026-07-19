@@ -96,7 +96,7 @@ python day01_array_basics.py
 - [x] Day 05 - NumPy Reshaping
 - [x] Day 06 - NumPy Random
 - [x] Day 07 - NumPy Conditions and Filtering
-- [ ] Day 08 - NumPy Linear Algebra
+- [x] Day 08 - NumPy Linear Algebra
 - [ ] Day 09 - NumPy Broadcasting
 - [ ] Day 10 - NumPy Mixed Practice
 - [ ] Day 11 - Pandas Series Basics
