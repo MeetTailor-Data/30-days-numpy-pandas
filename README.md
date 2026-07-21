@@ -103,7 +103,7 @@ python day01_array_basics.py
 - [x] Day 07 - NumPy Conditions and Filtering
 - [x] Day 08 - NumPy Linear Algebra
 - [x] Day 09 - NumPy Broadcasting
-- [ ] Day 10 - NumPy Mixed Practice
+- [x] Day 10 - NumPy Mixed Practice
 - [ ] Day 11 - Pandas Series Basics
 - [ ] Day 12 - Pandas DataFrame Basics
 - [ ] Day 13 - Pandas Filtering
