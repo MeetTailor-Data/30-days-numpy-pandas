@@ -106,7 +106,7 @@ python day01_array_basics.py
 - [x] Day 08 - NumPy Linear Algebra
 - [x] Day 09 - NumPy Broadcasting
 - [x] Day 10 - NumPy Mixed Practice
-- [ ] Day 11 - Pandas Series Basics
+- [x] Day 11 - Pandas Series Basics
 - [ ] Day 12 - Pandas DataFrame Basics
 - [ ] Day 13 - Pandas Filtering
 - [ ] Day 14 - Pandas Sorting and Ranking
