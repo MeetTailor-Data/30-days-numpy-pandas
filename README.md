@@ -50,6 +50,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 | 08  | NumPy Linear Algebra           |
 | 09  | NumPy Broadcasting             |
 | 10  | NumPy Mixed Practice           |
+| 11  | Pandas Series Basics           |
 
 
 
@@ -70,6 +71,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 ├── day08_linear_algebra.py
 ├── day09_broadcasting.py
 ├── day10_mixed_practice.py
+├── day11_series_basics.py
 |
 └── README.md
 ```
