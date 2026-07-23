@@ -51,6 +51,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 | 09  | NumPy Broadcasting             |
 | 10  | NumPy Mixed Practice           |
 | 11  | Pandas Series Basics           |
+| 12  | Pandas DataFrame Basics        |
 
 
 
