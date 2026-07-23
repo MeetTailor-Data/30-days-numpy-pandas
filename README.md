@@ -73,6 +73,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 ├── day09_broadcasting.py
 ├── day10_mixed_practice.py
 ├── day11_series_basics.py
+├── day12_dataframe_basics.py
 |
 └── README.md
 ```
