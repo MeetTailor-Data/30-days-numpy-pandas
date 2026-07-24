@@ -113,7 +113,7 @@ python day01_array_basics.py
 - [x] Day 10 - NumPy Mixed Practice
 - [x] Day 11 - Pandas Series Basics
 - [x] Day 12 - Pandas DataFrame Basics
-- [ ] Day 13 - Pandas Filtering
+- [x] Day 13 - Pandas Filtering
 - [ ] Day 14 - Pandas Sorting and Ranking
 - [ ] Day 15 - Pandas GroupBy
 - [ ] Day 16 - Pandas Missing Values
