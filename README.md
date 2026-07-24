@@ -52,6 +52,8 @@ and build the kind of muscle memory that matters in real projects and interviews
 | 10  | NumPy Mixed Practice           |
 | 11  | Pandas Series Basics           |
 | 12  | Pandas DataFrame Basics        |
+| 13  | Pandas Filtering               |
+
 
 
 
@@ -74,6 +76,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 ├── day10_mixed_practice.py
 ├── day11_series_basics.py
 ├── day12_dataframe_basics.py
+├── day13_filtering.py
 |
 └── README.md
 ```
