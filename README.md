@@ -53,6 +53,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 | 11  | Pandas Series Basics           |
 | 12  | Pandas DataFrame Basics        |
 | 13  | Pandas Filtering               |
+| 14  | Pandas Sorting and Ranking     |
 
 
 
@@ -77,6 +78,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 ├── day11_series_basics.py
 ├── day12_dataframe_basics.py
 ├── day13_filtering.py
+├── day14_sorting_ranking.py
 |
 └── README.md
 ```
