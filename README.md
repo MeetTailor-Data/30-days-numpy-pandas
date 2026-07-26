@@ -54,6 +54,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 | 12  | Pandas DataFrame Basics        |
 | 13  | Pandas Filtering               |
 | 14  | Pandas Sorting and Ranking     |
+| 15  | Pandas GroupBy                 |
 
 
 
