@@ -55,6 +55,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 | 13  | Pandas Filtering               |
 | 14  | Pandas Sorting and Ranking     |
 | 15  | Pandas GroupBy                 |
+| 16  | Pandas Missing Values          |
 
 
 
@@ -81,6 +82,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 ├── day13_filtering.py
 ├── day14_sorting_ranking.py
 ├── day15_groupby.py
+├── day16_missing_values.py
 |
 └── README.md
 ```
