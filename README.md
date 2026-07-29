@@ -83,6 +83,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 ├── day14_sorting_ranking.py
 ├── day15_groupby.py
 ├── day16_missing_values.py
+├── day17_string_operations.py
 |
 └── README.md
 ```
