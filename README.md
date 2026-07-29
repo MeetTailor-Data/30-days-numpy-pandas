@@ -56,6 +56,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 | 14  | Pandas Sorting and Ranking     |
 | 15  | Pandas GroupBy                 |
 | 16  | Pandas Missing Values          |
+| 17  | Pandas String Operations       |
 
 
 
