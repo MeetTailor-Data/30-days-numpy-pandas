@@ -57,6 +57,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 | 15  | Pandas GroupBy                 |
 | 16  | Pandas Missing Values          |
 | 17  | Pandas String Operations       |
+| 18  | Pandas Apply and Map           |
 
 
 
@@ -85,6 +86,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 ├── day15_groupby.py
 ├── day16_missing_values.py
 ├── day17_string_operations.py
+├── day18_apply_map.py
 |
 └── README.md
 ```
