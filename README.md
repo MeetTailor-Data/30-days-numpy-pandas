@@ -128,7 +128,7 @@ python day01_array_basics.py
 - [x] Day 15 - Pandas GroupBy
 - [x] Day 16 - Pandas Missing Values
 - [x] Day 17 - Pandas String Operations
-- [ ] Day 18 - Pandas Apply and Map
+- [x] Day 18 - Pandas Apply and Map
 - [ ] Day 19 - Pandas Merge and Join
 - [ ] Day 20 - Pandas Pivot Table
 - [ ] Day 21 - Pandas DateTime
