@@ -58,6 +58,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 | 16  | Pandas Missing Values          |
 | 17  | Pandas String Operations       |
 | 18  | Pandas Apply and Map           |
+| 19  | Pandas Merge and Join          |
 
 
 
@@ -87,6 +88,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 ├── day16_missing_values.py
 ├── day17_string_operations.py
 ├── day18_apply_map.py
+├── day19_merge_join.py
 |
 └── README.md
 ```
