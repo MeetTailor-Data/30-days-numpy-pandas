@@ -59,6 +59,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 | 17  | Pandas String Operations       |
 | 18  | Pandas Apply and Map           |
 | 19  | Pandas Merge and Join          |
+| 20  | Pandas Pivot Table             |
 
 
 
