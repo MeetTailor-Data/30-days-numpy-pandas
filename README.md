@@ -137,7 +137,7 @@ python day01_array_basics.py
 - [x] Day 18 - Pandas Apply and Map
 - [x] Day 19 - Pandas Merge and Join
 - [x] Day 20 - Pandas Pivot Table
-- [ ] Day 21 - Pandas DateTime
+- [x] Day 21 - Pandas DateTime
 - [ ] Day 22 - Pandas Duplicates and Cleaning
 - [ ] Day 23 - Pandas Value Counts and Unique
 - [ ] Day 24 - Pandas Column Operations
