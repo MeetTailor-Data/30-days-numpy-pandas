@@ -61,6 +61,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 | 19  | Pandas Merge and Join          |
 | 20  | Pandas Pivot Table             |
 | 21  | Pandas DateTime                |
+| 22  | Pandas Duplicates and Cleaning |
 
 
 
@@ -93,6 +94,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 ├── day19_merge_join.py
 ├── day20_pivot_table.py
 ├── day21_datetime.py
+├── day22_duplicates_cleaning.py
 |
 └── README.md
 ```
