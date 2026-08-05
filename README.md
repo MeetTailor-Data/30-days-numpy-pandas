@@ -62,6 +62,8 @@ and build the kind of muscle memory that matters in real projects and interviews
 | 20  | Pandas Pivot Table             |
 | 21  | Pandas DateTime                |
 | 22  | Pandas Duplicates and Cleaning |
+| 23  | Pandas Value Counts and Unique |
+
 
 
 
@@ -95,6 +97,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 ├── day20_pivot_table.py
 ├── day21_datetime.py
 ├── day22_duplicates_cleaning.py
+├── day23_value_counts_unique.py
 |
 └── README.md
 ```
