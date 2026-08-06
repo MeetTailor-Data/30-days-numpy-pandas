@@ -63,6 +63,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 | 21  | Pandas DateTime                |
 | 22  | Pandas Duplicates and Cleaning |
 | 23  | Pandas Value Counts and Unique |
+| 24  | Pandas Column Operations       |
 
 
 
@@ -98,6 +99,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 ├── day21_datetime.py
 ├── day22_duplicates_cleaning.py
 ├── day23_value_counts_unique.py
+├── day24_column_operations.py
 |
 └── README.md
 ```
