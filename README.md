@@ -147,7 +147,7 @@ python day01_array_basics.py
 - [x] Day 21 - Pandas DateTime
 - [x] Day 22 - Pandas Duplicates and Cleaning
 - [x] Day 23 - Pandas Value Counts and Unique
-- [ ] Day 24 - Pandas Column Operations
+- [x] Day 24 - Pandas Column Operations
 - [ ] Day 25 - Pandas Read and Describe
 - [ ] Day 26 - NumPy and Pandas Combined 1
 - [ ] Day 27 - NumPy and Pandas Combined 2
