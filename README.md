@@ -64,6 +64,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 | 22  | Pandas Duplicates and Cleaning |
 | 23  | Pandas Value Counts and Unique |
 | 24  | Pandas Column Operations       |
+| 25  | Pandas Read and Describe       |
 
 
 
@@ -100,6 +101,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 ├── day22_duplicates_cleaning.py
 ├── day23_value_counts_unique.py
 ├── day24_column_operations.py
+├── day25_read_describe.py
 |
 └── README.md
 ```
