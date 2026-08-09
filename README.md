@@ -156,7 +156,7 @@ python day01_array_basics.py
 - [x] Day 24 - Pandas Column Operations
 - [x] Day 25 - Pandas Read and Describe
 - [x] Day 26 - NumPy and Pandas Combined 1
-- [ ] Day 27 - NumPy and Pandas Combined 2
+- [x] Day 27 - NumPy and Pandas Combined 2
 - [ ] Day 28 - NumPy and Pandas Combined 3
 - [ ] Day 29 - Mixed Challenge Problems
 - [ ] Day 30 - Final Mixed Challenge
