@@ -176,4 +176,4 @@ GitHub: https://github.com/MeetTailor-Data
 
 ---
 
-## Project Copleted
+## Project Completed
