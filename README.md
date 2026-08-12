@@ -165,7 +165,7 @@ python day01_array_basics.py
 - [x] Day 27 - NumPy and Pandas Combined 2
 - [x] Day 28 - NumPy and Pandas Combined 3
 - [x] Day 29 - Mixed Challenge Problems
-- [ ] Day 30 - Final Mixed Challenge
+- [x] Day 30 - Final Mixed Challenge
 
 ---
 
