@@ -69,6 +69,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 | 27  | NumPy and Pandas Combined 2    |
 | 28  | NumPy and Pandas Combined 3    |
 | 29  | Mixed Challenge Problems       |
+| 30  | Final Mixed Challenge          |
 
 
 
@@ -110,6 +111,7 @@ and build the kind of muscle memory that matters in real projects and interviews
 ├── day27_combined_2.py
 ├── day28_combined_3.py
 ├── day29_mixed_challenge.py
+├── day30_final_challenge.py
 |
 └── README.md
 ```
