@@ -73,8 +73,6 @@ and build the kind of muscle memory that matters in real projects and interviews
 
 
 
-
-
 ---
 
 ## Folder Structure
